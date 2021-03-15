@@ -3,9 +3,12 @@
     height: 25px;
 }
 
-.pattern{
-    background-size: cover;
+header{
+    background-image: url('pattern.png');
+    background-repeat: no-repeat;
+    height: auto;
 }
+
 
 #colore-grandezza{
     font-size: 10px;
@@ -32,6 +35,7 @@ th{
     background-color: dodgerblue;
 }
 
-#colore3{
-    
+#immagine{
+    background-image: url('monitor.jpg');    
+
 }
