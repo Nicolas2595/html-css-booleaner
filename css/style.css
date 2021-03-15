@@ -1,0 +1,37 @@
+.logo{
+    width: 25p;
+    height: 25px;
+}
+
+.pattern{
+    background-size: cover;
+}
+
+#colore-grandezza{
+    font-size: 10px;
+    color: grey;
+}
+
+#colore1{
+    color: grey;
+}
+
+#colore2{
+    color: lightskyblue;
+}
+
+#grandezza{
+font-size: 12px;
+}
+
+#sfondo{
+    background-color: yellow;
+}
+
+th{
+    background-color: dodgerblue;
+}
+
+#colore3{
+    
+}
