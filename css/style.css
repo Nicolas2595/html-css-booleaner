@@ -4,9 +4,10 @@
 }
 
 header{
-    background-image: url('pattern.png');
-    background-repeat: no-repeat;
-    height: auto;
+    background-image: url('../immagini/pattern.png');
+    background-color: #4EA0FF;
+    height: 100px;
+    background-size: 30%;
 }
 
 
@@ -31,11 +32,31 @@ font-size: 12px;
     background-color: yellow;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 th{
     background-color: dodgerblue;
 }
+.odd {
+    background-color: #B1E5F2;
+}
 
-#immagine{
-    background-image: url('monitor.jpg');    
+.image-container{
+    width: 200px;
+    height: 160px;
+    background-size: cover;
+}
 
+.colore3{
+    color: white;
+}
+
+#monitor{
+    background-image: url('../immagini/monitor.jpg');
+}
+
+#graph{
+    background-image: url('../immagini/graph.jpg');
 }
